@@ -1,0 +1,12 @@
+{
+  "name": "create-variants",
+  "version": "1.0.0",
+  "description": "helper for creating variants of a component like styled-component",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
